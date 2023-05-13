@@ -1,4 +1,7 @@
 # Python 3.9.7
+openai
+langchain
 altair==4.0.0
 protobuf==3.20.*
 streamlit==1.2.0
+pinecone-client 
